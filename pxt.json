@@ -27,7 +27,8 @@
                 "bluetooth": {
                     "partial_flashing": 0
                 },
-                "gatt_table_size": "0x900"
+                "stack_size": 1600,
+                "gatt_table_size": "0x1200"
             }
         }
     }
