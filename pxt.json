@@ -19,7 +19,12 @@
         "targetId": "calliopemini"
     },
     "supportedTargets": [
-        "calliopemini"
+        "calliopemini",
+        "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "config": {
+        "microbit-dal": {
+            "gatt_table_size": "0x900"
+        }
+    }
 }
