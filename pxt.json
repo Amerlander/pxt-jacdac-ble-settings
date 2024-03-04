@@ -19,8 +19,7 @@
         "targetId": "calliopemini"
     },
     "supportedTargets": [
-        "calliopemini",
-        "microbit"
+        "calliopemini"
     ],
     "config": {
         "microbit-dal": {
