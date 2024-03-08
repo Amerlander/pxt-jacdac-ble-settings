@@ -19,6 +19,7 @@
         "targetId": "calliopemini"
     },
     "supportedTargets": [
+        "microbit",
         "calliopemini"
     ],
     "yotta": {
@@ -26,9 +27,7 @@
             "microbit-dal": {
                 "bluetooth": {
                     "partial_flashing": 0
-                },
-                "stack_size": 1600,
-                "gatt_table_size": "0x1200"
+                }
             }
         }
     }
